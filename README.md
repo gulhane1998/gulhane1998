@@ -1,6 +1,7 @@
 - 👋 Hi, I’m BEGINER.
-- 👀 I’m love to westing time on computer.
-- 🌱 I’m currently learning SQL DATABASE
+- 👀 I love to waste time on the computer.
+- 🌱 SQL DATABASE
+- 👩‍💻working with the UiPath Automation Tool
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me beginerp90@gmail.COM
 
