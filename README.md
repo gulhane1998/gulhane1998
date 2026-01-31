@@ -1,8 +1,6 @@
 - 👋 Hey Everyone,
-- 👀 I love to waste time on the computer.
 - 🌱 SQL DATABASE
 - 👩‍💻working with the UiPath Automation Tool
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratikshag9818@gmail.com
 
 <!---
